@@ -25,7 +25,11 @@ A convenient way of accessing QUIC pages from a Mac is running Chrome (tested on
 
 -- Demo 
 Sample images (located in `static/`):
-
-- ![http1](static/http1.png)
-- ![http2](static/http2.png)
+- http1 http2 overview
 - ![protocol flow](static/flow.png)
+
+- http1
+- ![http1](static/http1.png)
+
+- http2 
+- ![http2](static/http2.png)
